@@ -25,3 +25,6 @@ Links of interest:
 - https://github.com/LinuxCNC/linuxcnc/blob/master/lib/python/hal.py
 - http://wiki.linuxcnc.org/cgi-bin/wiki.pl?Using_HAL_In_Python
 
+---
+
+License GPL-2.0 (Same as LinuxCNC)
